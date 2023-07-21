@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b007d133d024d07b244cbcad810b2c5, type: 3}
+  m_Name: Notifications
+  m_EditorClassIdentifier: 
+  notifications:
+  - title: "\U0001FAE0 We Miss You \U0001FAE0"
+    description: "\U0001FAE0 Come and keep having fun \U0001FAE0"
+    deliveryTimeInMinutes: 180
+  - title: "\U0001FAE3 Are you there \U0001FAE3"
+    description: "\U0001FAE3 We Miss You \U0001FAE3"
+    deliveryTimeInMinutes: 480
+  - title: "\U0001F92A Shhh \U0001F92A"
+    description: "What's more fun than this game \U0001F914"
+    deliveryTimeInMinutes: 720
+  - title: "\U0001FAE5 OK \U0001FAE5"
+    description: "\U0001FAE5 I guess you forgot me \U0001FAE5"
+    deliveryTimeInMinutes: 1440
+  - title: "\U0001F613 You know \U0001F613"
+    description: "\U0001F624 You miss what's inside \U0001F624"
+    deliveryTimeInMinutes: 2880

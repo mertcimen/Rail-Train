@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559d671aa82e55948a44e288a0a23ecf, type: 3}
+  m_Name: FGAdjustSettings
+  m_EditorClassIdentifier: 
+  version: 3.2.3
+  AppToken: r6j75ct7cbuo
+  logLevel: 3
+  sendInBackground: 1
+  AdjustEventInterID: 
+  AdjustEventRewardedID: 
+  AdjustTokenRet1: 
+  AdjustTokenRet3: 
+  AdjustTokenRet5: 
+  AdjustTokenRet7: 
+  nbRV1: 5
+  nbRV1Token: 
+  nbRV2: 10
+  nbRV2Token: 
+  nbRV3: 15
+  nbRV3Token: 
+  nbRV4: 20
+  nbRV4Token: 
+  nbRV5: 25
+  nbRV5Token: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ccbb445e0d140541b8e3037ef66312b, type: 3}
+  m_Name: FGGameAnalyticsSettings
+  m_EditorClassIdentifier: 
+  version: 3.2.2
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: '9920818658ecf6f1395a0fd8e4635399  '
+  gameAnalyticsAndroidSecretKey: a492c9b83f75e13072a1dd794cf785228854099c

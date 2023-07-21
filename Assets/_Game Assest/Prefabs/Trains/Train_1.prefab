@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3068203687172138086
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3068203687172138081}
+  - component: {fileID: 3068203687172138080}
+  - component: {fileID: 3144886536340320261}
+  m_Layer: 0
+  m_Name: Train_1
+  m_TagString: MoveableObj
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3068203687172138081
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3068203687172138086}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3068203687172138080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3068203687172138086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3b3266d8846e41238490025d8f9659c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  straightObject: {fileID: 3476088606278524371, guid: 96bdb1b9638b045fab94f57da1ebd780,
+    type: 3}
+  rightCornerObject: {fileID: 613346606166383905, guid: 9ce9325942d8e4904b77f505287ddef7,
+    type: 3}
+  leftCornerObject: {fileID: 1528034728347905190, guid: a9678628af77d47c0aa39c63e7a6ff5c,
+    type: 3}
+  intersectionObject: {fileID: 142968117626855505, guid: 317e0cee9080c40bd9755e9d74559451,
+    type: 3}
+  intersectionReverseObject: {fileID: 142968117626855505, guid: 2ed0a466ef3114502b91cefa1fb3cc1c,
+    type: 3}
+  locomotivePrefab: {fileID: 1653788763239557482, guid: cfe678dea2d1141a8995dc513589e628,
+    type: 3}
+  locomotiveObj: {fileID: 0}
+  vagonObj: {fileID: 5208721665998725804, guid: 1dae55496cc604894b99732a0da786ef,
+    type: 3}
+  passengerVagonObj: {fileID: 1751579335224844674, guid: 4a40086759d894bbea4f2501eab05b22,
+    type: 3}
+  speed: 5
+  vagonCount: 2
+  PassengerVagonCount: 1
+  firstVagonDistance: 3
+  nextVagonDistance: 2
+  startRail: {fileID: 0}
+  endRail: {fileID: 0}
+  isTrainMove: 1
+  crashParticle: {fileID: 19848870, guid: a7c694f0877ea874fa57e033221095c3, type: 3}
+  isTrainArrive: 0
+--- !u!54 &3144886536340320261
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3068203687172138086}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

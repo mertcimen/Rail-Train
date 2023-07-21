@@ -1,0 +1,91 @@
+{
+  "ModuleURLs": [
+    {
+      "Type": "FunGames SDK",
+      "URLs": [
+        "1xfMsFf9VCthNLv6S63tX9za1unaekjPT"
+      ]
+    },
+    {
+      "Type": "MMP",
+      "URLs": [
+        "1y6yUcdBc54NmvjYu0yl5jt7rPnmeSIQT"
+      ]
+    },
+    {
+      "Type": "Analytics",
+      "URLs": [
+        "1uMfwBsBqYf-79IdfafDPFFpU28kD7xiw",
+        "1lip4d32uIAR7fAunBehbL5H9AoUjywBq",
+        "1x5DjwOLvSYWE7TJdf0pQrE0y64xaK9WA",
+        "1Hb2WRV4zykO44Kx9_cdMKw9SirumipXL"
+      ]
+    },
+    {
+      "Type": "ATT PrePopup",
+      "URLs": [
+        "1QpKyknfka65y3SA6pZwf1svEhjkCS-4l"
+      ]
+    },
+    {
+      "Type": "ATT",
+      "URLs": [
+        "1qmAsV0XLEAzmrUb-T-TkDQKi3pLg7CIz"
+      ]
+    },
+    {
+      "Type": "GDPR",
+      "URLs": [
+        "1MAiXPg7hnlKTs6_OljLOXdOssQKuVN2t",
+        "10wC076GmPCd92WqqxM-rX16JUWhylaNv"
+      ]
+    },
+    {
+      "Type": "Mediation",
+      "URLs": [
+        "1dnX3gW3BtlQVCfvB8zbp6oRILluBA-5B",
+        "1wUbCUzrBbjfrr1t1puSQfYPx0-BZLgy_"
+      ]
+    },
+    {
+      "Type": "Remote Config",
+      "URLs": [
+        "1zct8S8D2q8XBsxMOhlW1DoV03vYALCt_"
+      ]
+    },
+    {
+      "Type": "Notifications",
+      "URLs": [
+        "1Tcsmj3sSoyR4XqbnvgNwNkusldJJwWc1"
+      ]
+    },
+    {
+      "Type": "Crosspromo",
+      "URLs": [
+        "1qXZ58eQzXt4yNJ6ZXJ9jZ72vW8hfJuAr"
+      ]
+    },
+    {
+      "Type": "Audio Ads",
+      "URLs": [
+        "1Fn37KT3LBYdHtzTTXkmCMBa744l2IEc_",
+        "1IKWrEZw7B15QtYiGd_io4hADx_I2dK7c"
+      ]
+    },
+    {
+      "Type": "In-Game Ads",
+      "URLs": [
+        "1mZilNw6GUZK47CMDBXYKZsOpIQSiFKY0",
+        "1jlFl_md1xJFszejPKU7s9091HguJ_i8x",
+        "1Dvy9C69V2WUERAp6e1sFZGpQLEij6L7w"
+      ]
+    },
+    {
+      "Type": "IAP",
+      "URLs": [
+        "1D2nVCQtFrCBWm1Di45QuWSj1Id-d6rbH",
+        "1t8gIYjLRwAtriGEdJOH030YBEKJ7P7i9"
+      ]
+    }
+  ]
+}
